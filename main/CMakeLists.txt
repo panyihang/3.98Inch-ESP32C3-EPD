@@ -9,6 +9,7 @@ idf_component_register(
         "ble/ble_commands.c"
         "storage/nvs_store.c"
         "storage/photo_store.c"
+        "storage/font_store.c"
         "app/app_state.c"
         "app/refresh_queue.c"
         "net/wifi_manager.c"
